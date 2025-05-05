@@ -52,7 +52,7 @@ st.markdown("""
 
 # App title
 st.markdown("<h1 class='main-header'>✋ Mystic Palm Reader ✋</h1>", unsafe_allow_html=True)
-st.markdown("<p style='text-align: center;'>Upload an image of your palm to discover your future!</p>", unsafe_allow_html=True)
+st.markdown("<p style='text-align: center;'>Upload an image of your palm to discover more about yourself!</p>", unsafe_allow_html=True)
 
 # Language selection for UI
 ui_language = st.sidebar.radio(
